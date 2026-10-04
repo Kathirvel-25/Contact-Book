@@ -1,6 +1,6 @@
 #include "stdio.h"
 #include "file.h"
-#include "contact.h"
+#include "feature.h"
 
 
 int main()
@@ -20,7 +20,7 @@ int main()
         printf("4. Delete contact\n");
         printf("5. print all contacts\n");
     	  printf("6. Save contacts\n");		
-        printf("7. Exit\n------------------------------------");
+        printf("7. Exit\n");
         printf("\nEnter your choice: ");
         scanf("%d", &choice);
 
