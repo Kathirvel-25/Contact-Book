@@ -1,7 +1,7 @@
 #ifndef FILE_H
 #define FILE_H
 
-#include "contact.h"
+#include "feature.h"
 #include "string.h"
 #include "stdio.h"
 
